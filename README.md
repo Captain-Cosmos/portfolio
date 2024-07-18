@@ -1,5 +1,5 @@
 # О себе
-![Фото](https://github.com/Captain-Cosmos/portfolio/blob/main/img/About%20me.png)
+![Фото](img/About me.png)
 
 Привет! Меня зовут Станислав. Я начинаю изучать Java. Хочу научиться создавать приложения и игры на языке Java.
 
